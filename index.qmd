@@ -3,7 +3,7 @@ title: "Alejandro Cerda Barroso"
 subtitle: "Lebenslauf"
 format:
   html:
-    theme: cosmo
+    theme: darkly
     toc: false
     embed-resources: true
     page-layout: article
@@ -103,9 +103,7 @@ format:
       }
 ---
 
-::: {.contact-box}
-Klosterweg 7, Zimmer R 301, 76131 Karlsruhe  
-[0177 4133997](tel:+491774133997) | [alejandro.ceba@protonmail.com](mailto:alejandro.ceba@protonmail.com)  
+::: {.contact-box} 
 [github.com/alejandroceba](https://github.com/alejandroceba)
 :::
 
