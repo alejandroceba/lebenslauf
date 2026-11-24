@@ -1,0 +1,295 @@
+---
+title: "Alejandro Cerda Barroso"
+subtitle: "Lebenslauf"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    embed-resources: true
+    page-layout: article
+    max-width: 680px
+    css: |
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        line-height: 1.55;
+        color: #1f2937;
+        background-color: #ffffff;
+        padding: 1rem 0.5rem;
+      }
+      #title-block-header {
+        margin-bottom: 1.25rem;
+        border-bottom: 2px solid #0f4c81;
+        padding-bottom: 0.75rem;
+      }
+      .title {
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: #0f4c81;
+        margin-bottom: 0.15rem;
+      }
+      .subtitle {
+        font-size: 1rem;
+        font-weight: 500;
+        color: #4b5563;
+        margin-top: 0;
+      }
+      .contact-box {
+        font-size: 0.92rem;
+        color: #374151;
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+      }
+      .contact-box a {
+        color: #0f4c81;
+        text-decoration: none;
+        font-weight: 500;
+      }
+      h2 {
+        font-size: 1.15rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        color: #0f4c81;
+        border-bottom: 1.5px solid #d1d5db;
+        padding-bottom: 0.25rem;
+        margin-top: 1.75rem;
+        margin-bottom: 1rem;
+      }
+      .cv-entry {
+        margin-bottom: 1.25rem;
+      }
+      .cv-date {
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: #0f4c81;
+        margin-bottom: 0.1rem;
+      }
+      .cv-role {
+        font-size: 1.02rem;
+        font-weight: 700;
+        color: #111827;
+        margin-bottom: 0.15rem;
+      }
+      .cv-org {
+        font-size: 0.94rem;
+        font-weight: 500;
+        color: #374151;
+        margin-bottom: 0.35rem;
+      }
+      .cv-entry ul {
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
+        padding-left: 1.2rem;
+      }
+      .cv-entry li {
+        font-size: 0.93rem;
+        margin-bottom: 0.3rem;
+      }
+      .skill-group {
+        margin-bottom: 0.85rem;
+        font-size: 0.93rem;
+      }
+      .skill-label {
+        font-weight: 700;
+        color: #111827;
+        display: block;
+      }
+      .cv-footer {
+        margin-top: 2rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid #e5e7eb;
+        font-size: 0.9rem;
+        color: #4b5563;
+      }
+---
+
+::: {.contact-box}
+Klosterweg 7, Zimmer R 301, 76131 Karlsruhe  
+[0177 4133997](tel:+491774133997) | [alejandro.ceba@protonmail.com](mailto:alejandro.ceba@protonmail.com)  
+[github.com/alejandroceba](https://github.com/alejandroceba)
+:::
+
+## Bildungsweg
+
+::: {.cv-entry}
+::: {.cv-date}
+seit 08.2023
+:::
+::: {.cv-role}
+Erneuerbare Energien, B. Eng.
+:::
+::: {.cv-org}
+Nationale Autonome Universität von Mexiko (UNAM), Institut für Erneuerbare Energien (IER)
+:::
+* Regelstudienzeit: 8 Semester
+* Aktuelle Note: 9,9 / 10
+* Schwerpunkte: Photovoltaik, Solarthermie, Windkraft, Bioklimatisches Design
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+10.2026 – 03.2027
+:::
+::: {.cv-role}
+Karlsruher Institut für Technologie (KIT), Karlsruhe
+:::
+* Auslandssemester an der Fakultät für Elektrotechnik und Informationstechnik
+* Schwerpunkte: Machine Learning and Optimization in Energy Systems, Lineare elektrische Netze, Solar Energy, Entrepreneurship
+* Gefördert durch den Deutschen Akademischen Austauschdienst (DAAD) im Rahmen des KOSPIE-Programms
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+08.2020 – 07.2023
+:::
+::: {.cv-role}
+Colegio Williams de Cuernavaca, Mexiko
+:::
+* Bachillerato (mexikanisches Abitur) & International Baccalaureate Diploma Programme (IBDP)
+* Note: 9,7 / 10
+* IBDP: Mathematics und Physics 5/7
+:::
+
+## Praktische Erfahrungen & Projekte
+
+::: {.cv-entry}
+::: {.cv-date}
+seit 04.2026
+:::
+::: {.cv-role}
+Datenwissenschaft und KI für komplexe energetische Systeme
+:::
+::: {.cv-org}
+IER-UNAM Forschungsprojekt
+:::
+* Modellierung und Analyse von über 1.760 georeferenzierten Netzknoten des nationalen Elektrizitätssystems (SEN) in Python (NetworkX, Pandas)
+* Untersuchung 8-jähriger Zeitreihendaten (2017–2024) zur dezentralen Einspeisung
+* Topologische Modellierung des Verteilnetzes als gerichteter gewichteter Graph zur Identifikation von Engpässen bei PV- und Batteriespeicherzubau (BESS)
+* Entwicklung reproduzierbarer Daten- und Analyse-Pipelines in Quarto
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+02.2026 – 05.2026
+:::
+::: {.cv-role}
+Kleinwasserkraftwerk-Auslegung & GIS-Analyse
+:::
+::: {.cv-org}
+IER-UNAM
+:::
+* Statistische Auswertung von über 60 Jahren täglicher Abflussdaten (1960–2021) der hydrometrischen Station B26289 sowie Niederschlagsdaten von 16 Wetterstationen
+* Räumliche Modellierung des Einzugsgebiets (1.507 km²) mittels Voronoi-/Thiessen-Polygonen in QGIS
+* Ermittlung des Auslegungsdurchflusses (Q = 13,53 m³/s bei Pe = 85 %) und Ableitung des hydraulischen Längsprofils zur Bestimmung von Fallhöhe und Leistung
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+06.2026
+:::
+::: {.cv-role}
+Solar- & Gebäudesimulation für klimatische Entwurfsstrategien (CDMX & EAHE)
+:::
+::: {.cv-org}
+IER-UNAM
+:::
+* Modellierung von Sonneneinstrahlung, Verschattungsgeometrien und Erdwärmetauschern (EAHE) in Python (pvlib, enerhabitat, iertools, scipy)
+* Thermische Simulation von Gebäudehüllen und Tagesintegration von Strahlungs- und Klimadaten
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+seit 10.2026
+:::
+::: {.cv-role}
+Optimierung dezentraler Energiesysteme (LP & MILP)
+:::
+::: {.cv-org}
+KIT
+:::
+* Implementierung linearer (LP) und gemischt-ganzzahliger Optimierungsmodelle (MILP) in Python (scipy, numpy, pandas) für Demand-Side-Management, Batteriespeicher und E-Mobilität (EV-Ladelastprofile, 4,2 kW / 5 kWh)
+* Entwicklung automatisierter Unit-Tests (unittest) zur Validierung physikalischer Systemzustände
+:::
+
+## Sprachkurse & Stipendien
+
+::: {.cv-entry}
+::: {.cv-date}
+07.2026 – 07.2027
+:::
+::: {.cv-role}
+Stipendiat des DAAD
+:::
+* Kombinierte Studien- und Praxisaufenthalte für Ingenieure aus Entwicklungsländern (Mexiko), 2026/27 (KOSPIE)
+* Förderung aufgrund überdurchschnittlicher akademischer Leistungen
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+07.2026 – 09.2026
+:::
+::: {.cv-role}
+Sprachausbildung Niveaustufen C1 und C2
+:::
+* interDaF e.V. am Herder-Institut der Universität Leipzig, gefördert durch den DAAD
+:::
+
+::: {.cv-entry}
+::: {.cv-date}
+05.08.2025 – 29.08.2025
+:::
+::: {.cv-role}
+Sommerkurs: Deutsch für Studierende ingenieurwissenschaftlicher Fächer (B2)
+:::
+* Deutschkurse bei der Universität München e. V., gefördert durch den DAAD
+:::
+
+## Technische & IT-Kenntnisse
+
+::: {.skill-group}
+[CAD, Flächenbewertung & Standortanalyse:]{.skill-label}
+Onshape (Grundkenntnisse – 3D-CAD-Konstruktion), QGIS (gute Kenntnisse – Einzugsgebietsmodellierung, Voronoi-/Thiessen-Polygone, Standortanalyse)
+:::
+
+::: {.skill-group}
+[Energiesystem-Modellierung & Optimierung:]{.skill-label}
+Lineare & gemischt-ganzzahlige Programmierung (LP / MILP) für Demand-Side-Management, Speicher & E-Mobilität (SciPy, NumPy), Einstrahlungs- und PV-Modellierung (pvlib), thermische Gebäudesimulation (enerhabitat, iertools), Netz- & Graphenanalyse (NetworkX)
+:::
+
+::: {.skill-group}
+[Programmierung & Datenanalyse:]{.skill-label}
+Python (fortgeschritten – Datenpipelines, Optimierung, CLI-Tools, Unit-Testing mit unittest), Pandas, NumPy, SciPy, scikit-learn (Grundlagen), C / Embedded C++ (numerische Methoden, Mikrocontroller-Telemetrie / ESP-NOW)
+:::
+
+::: {.skill-group}
+[Dokumentation & Software-Werkzeuge:]{.skill-label}
+Quarto, Jupyter Notebook, Plotly (interaktive Dashboards & Karten), Matplotlib, Seaborn, Markdown, LaTeX-wissenschaftliche Dokumentation, Git, GitHub, GitHub CLI, GitHub Pages, uv, Linux (Benutzer, Ubuntu, i3wm)
+:::
+
+## Sprachkenntnisse
+
+* **Spanisch:** Muttersprache
+* **Englisch:** Verhandlungssicher
+* **Deutsch:** Fließend
+* **Französisch:** Grundkenntnisse
+
+## Engagement
+
+::: {.cv-entry}
+::: {.cv-date}
+03.2025 – 11.2025
+:::
+::: {.cv-role}
+Nationaler Kongress der Studenten für erneuerbare Energien (CNEER 2025)
+:::
+::: {.cv-org}
+IER-UNAM, Temixco, Morelos
+:::
+* Leitung der redaktionellen Koordination für 35 wissenschaftliche Arbeiten (15 mündliche Fachvorträge in 2 Auditorien und 20 Poster von 37 Autor:innen)
+* Strukturierung des Peer-Review-Verfahrens mit standardisierten Bewertungsbögen für je 3 Gutachter pro Beitrag
+* Redaktion und Veröffentlichung des Tagungsbandes unter Berücksichtigung von IEEE-Richtlinien
+:::
+
+::: {.cv-footer}
+Karlsruhe, den 23.11.2026
+:::
